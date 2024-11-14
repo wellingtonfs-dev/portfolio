@@ -1,6 +1,6 @@
 {
     "name": "Wellington F Silva",
-    "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+    "photo": "https://avatars.githubusercontent.com/u/176322856?v=4",
     "job": "Estudante de Ciência da Computação",
     "location": "Campinas - SP",
     "phone": "(19) 99213-6854",
@@ -8,32 +8,53 @@
     "skills": {
       "hardSkills": [
         {
-          "name": "Nodejs",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
-        },
-        {
           "name": "Java",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+          "logo": "https://github.com/wellingtonfs-dev/portfolio/blob/main/data/imgs/java.png"
         },        
         {
+          "name": "C#",
+          "logo": "https://github.com/wellingtonfs-dev/portfolio/blob/main/data/imgs/csharp.png"
+        },
+        {
+          "name": "CSS",
+          "logo": "https://github.com/wellingtonfs-dev/portfolio/blob/main/data/imgs/css.png"
+        },
+        {
+          "name": "Git",
+          "logo": "https://github.com/wellingtonfs-dev/portfolio/blob/main/data/imgs/git.png"
+        },
+        {
+          "name": "GitHub",
+          "logo": "https://github.com/wellingtonfs-dev/portfolio/blob/main/data/imgs/github.png"
+        },
+        {
+          "name": "HTML",
+          "logo": "https://github.com/wellingtonfs-dev/portfolio/blob/main/data/imgs/html.png"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "https://github.com/wellingtonfs-dev/portfolio/blob/main/data/imgs/js.png"
+        },
+        {
+          "name": "Python",
+          "logo": "https://github.com/wellingtonfs-dev/portfolio/blob/main/data/imgs/python.png"
+        },
+        {
           "name": "React",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+          "logo": "https://github.com/wellingtonfs-dev/portfolio/blob/main/data/imgs/react.png"
         },
         {
-          "name": "Mongodb",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-        },
-        {
-          "name": "Postgresql",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+          "name": "MySQL",
+          "logo": "https://github.com/wellingtonfs-dev/portfolio/blob/main/data/imgs/mysql.png"
         }
       ],
       "softSkills": [
-        "Empatia",
+        "Determinação",        
         "Liderança",
         "Trabalho em equipe",
         "Flexibilidade",
-        "Organização"
+        "Organização",
+        "Empatia"
       ]
     },
     "languages": [
@@ -43,30 +64,40 @@
     "portfolio": [
       {
         "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "url": "https://github.com/wellingtonfs-dev/Pokedex",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "name": "Curso Ministrado na DIO para a criação de uma página com Bootstrap",
+        "url": "https://github.com/wellingtonfs-dev/site-com-bootstrap",
+        "github": true
+      },
+      {
+        "name": "Curso Ministrado na DIO para a criação de uma página com GRID",
+        "url": "https://github.com/wellingtonfs-dev/Clonando-a-pagina-do-youtube-com-GRID",
+        "github": true
+      },
+      {
+        "name": "Curso Ministrado na DIO para a criação de uma página com Flexbox",
+        "url": "https://github.com/wellingtonfs-dev/Clonando-a-pagina-do-youtube",
+        "github": true
+      },
+      {
+        "name": "Curso Ministrado na DIO para a criação de uma API com C#",
+        "url": "https://github.com/wellingtonfs-dev/minimal-api",
+        "github": true
+      },
+      {
+        "name": "Curso de Python ministrado pelo professor Guanabara",
+        "url": "https://github.com/wellingtonfs-dev/Curso-Python-Guanabara",
         "github": true
       }
     ],
     "professionalExperience": [
       {
-        "name": "Arquiteto de software / S3 BANK",
+        "name": "Estudante",
         "period": "2022 - até o momento",
-        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
-      },
-      {
-        "name": "Software Engineering Lead / DIO",
-        "period": "2021 - 2022",
-        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-      },
-      {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
-      }
+        "description": "Estou vivendo uma transição de carreira da logística para a programação. Comecei essa jornada em julho de 2022 e desde então venho me dedicando à graduação de Ciência da Computação e também a cursos paralelos para aperfeiçoar o meu aprendizado. Estou trabalhando duro para iniciar a minha carreira na área da tecnologia, e no momento procuro um estágio que será o pontapé inicial para que eu possa crescer no ramo." 
+      }      
     ]
   }
