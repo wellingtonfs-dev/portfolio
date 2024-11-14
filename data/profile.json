@@ -9,43 +9,43 @@
       "hardSkills": [
         {
           "name": "Java",
-          "logo": "https://github.com/wellingtonfs-dev/portfolio/blob/main/data/imgs/java.png"
+          "logo": "https://raw.githubusercontent.com/wellingtonfs-dev/portfolio/refs/heads/main/data/imgs/java.png"
         },        
         {
           "name": "C#",
-          "logo": "https://github.com/wellingtonfs-dev/portfolio/blob/main/data/imgs/csharp.png"
-        },
-        {
-          "name": "CSS",
-          "logo": "https://github.com/wellingtonfs-dev/portfolio/blob/main/data/imgs/css.png"
-        },
-        {
-          "name": "Git",
-          "logo": "https://github.com/wellingtonfs-dev/portfolio/blob/main/data/imgs/git.png"
-        },
-        {
-          "name": "GitHub",
-          "logo": "https://github.com/wellingtonfs-dev/portfolio/blob/main/data/imgs/github.png"
-        },
-        {
-          "name": "HTML",
-          "logo": "https://github.com/wellingtonfs-dev/portfolio/blob/main/data/imgs/html.png"
-        },
-        {
-          "name": "JavaScript",
-          "logo": "https://github.com/wellingtonfs-dev/portfolio/blob/main/data/imgs/js.png"
+          "logo": "https://raw.githubusercontent.com/wellingtonfs-dev/portfolio/refs/heads/main/data/imgs/csharp.png"
         },
         {
           "name": "Python",
-          "logo": "https://github.com/wellingtonfs-dev/portfolio/blob/main/data/imgs/python.png"
+          "logo": "https://raw.githubusercontent.com/wellingtonfs-dev/portfolio/refs/heads/main/data/imgs/python.png"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/wellingtonfs-dev/portfolio/refs/heads/main/data/imgs/js.png"
         },
         {
           "name": "React",
-          "logo": "https://github.com/wellingtonfs-dev/portfolio/blob/main/data/imgs/react.png"
+          "logo": "https://raw.githubusercontent.com/wellingtonfs-dev/portfolio/refs/heads/main/data/imgs/react.png"
+        },
+        {
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/wellingtonfs-dev/portfolio/refs/heads/main/data/imgs/html.png"
+        },
+        {
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/wellingtonfs-dev/portfolio/refs/heads/main/data/imgs/css.png"
+        },
+        {
+          "name": "Git",
+          "logo": "https://raw.githubusercontent.com/wellingtonfs-dev/portfolio/refs/heads/main/data/imgs/git.png"
+        },
+        {
+          "name": "GitHub",
+          "logo": "https://raw.githubusercontent.com/wellingtonfs-dev/portfolio/refs/heads/main/data/imgs/github.png"
         },
         {
           "name": "MySQL",
-          "logo": "https://github.com/wellingtonfs-dev/portfolio/blob/main/data/imgs/mysql.png"
+          "logo": "https://raw.githubusercontent.com/wellingtonfs-dev/portfolio/refs/heads/main/data/imgs/mysql.png"
         }
       ],
       "softSkills": [
