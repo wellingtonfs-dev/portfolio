@@ -220,7 +220,7 @@ header{
     margin-bottom: .5rem;
 }
 
-.portfolio li .title.github::before{
+.portfolio li .github::before{
     content: '';  
     display: inline-block;  
     width: 1rem;
