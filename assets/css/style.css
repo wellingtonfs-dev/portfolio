@@ -44,19 +44,19 @@ header{
 }
 
 .information .job::before{
-    background-image: url("/assets/img/icons/job.svg");
+    background-image: url("../img/icons/job.svg");
 }
 
 .information .location::before{
-    background-image: url("/assets/img/icons/location.svg");
+    background-image: url("../img/icons/location.svg");
 }
 
 .information .phone::before{
-    background-image: url("/assets/img/icons/phone.svg");
+    background-image: url("../img/icons/phone.svg");
 }
 
 .information .email::before{
-    background-image: url("/assets/img/icons/email.svg");
+    background-image: url("../img/icons/email.svg");
 }
 
 .acordeon{
@@ -101,7 +101,7 @@ header{
     height: 1.5rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url("/assets/img/icons/arrow-top.svg");
+    background-image: url("../img/icons/arrow-top.svg");
     transition: .25s ;
 }
 
@@ -188,7 +188,7 @@ header{
     height: 1rem;    
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url("/assets/img/icons/check.svg");
+    background-image: url("../img/icons/check.svg");
     margin-right: .5rem;
 }
 
@@ -227,7 +227,7 @@ header{
     height: 1rem;    
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url("/assets/img/icons/github.svg");
+    background-image: url("../img/icons/github.svg");
     margin-right: .5rem;
 }
 
@@ -256,7 +256,7 @@ header{
     height: 1rem;    
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url("/assets/img/icons/calendar.svg");
+    background-image: url("../img/icons/calendar.svg");
     margin-right: .5rem;
 }
 
